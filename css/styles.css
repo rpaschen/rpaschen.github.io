@@ -10274,3 +10274,8 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
