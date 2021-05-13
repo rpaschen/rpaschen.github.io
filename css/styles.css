@@ -10275,7 +10275,7 @@ form .row:first-child .floating-label-form-group {
   background-color: #1a252f;
 }
 
-.responsive {
-  width: 100%;
+.resume-responsive {
+  max-width: 70%;
   height: auto;
 }
