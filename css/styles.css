@@ -10283,7 +10283,7 @@ form .row:first-child .floating-label-form-group {
 /* Project page styling */
 
 .project {
-  margin-top: 75px;
+  margin-top: 175px;
 }
 
 .project .project-item {
@@ -10294,6 +10294,7 @@ form .row:first-child .floating-label-form-group {
   border-radius: 0.5rem;
   overflow: hidden;
 }
+
 .project .project-item .project-item-caption {
   position: absolute;
   top: 0;
@@ -10302,9 +10303,11 @@ form .row:first-child .floating-label-form-group {
   opacity: 0;
   background-color: rgba(26, 188, 156, 0.9);
 }
+
 .project .project-item .project-item-caption:hover {
   opacity: 1;
 }
+
 .project .project-item .project-item-caption .project-item-caption-content {
   font-size: 1.5rem;
 }
@@ -10313,12 +10316,14 @@ form .row:first-child .floating-label-form-group {
   font-size: 2.25rem;
   line-height: 2rem;
 }
+
 @media (min-width: 992px) {
   .project-modal .project-modal-title {
     font-size: 3rem;
     line-height: 2.5rem;
   }
 }
+
 .project-modal .close {
   position: absolute;
   z-index: 1;
