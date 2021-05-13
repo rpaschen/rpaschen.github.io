@@ -10276,6 +10276,6 @@ form .row:first-child .floating-label-form-group {
 }
 
 .responsive {
-  width: 80%;
+  width: 100%;
   height: auto;
 }
