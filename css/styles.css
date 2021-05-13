@@ -10408,6 +10408,7 @@ a.animated-button.victoria-four:after {
 	-ms-transform: translateY(-50%) translateX(-50%) rotate(90deg);
 	-webkit-transform: translateY(-50%) translateX(-50%) rotate(90deg);
 	transform: translateY(-50%) translateX(-50%) rotate(90deg);
+  border-radius: 30px;
 }
 a.animated-button.victoria-four:hover:after {
 	opacity: 1;
