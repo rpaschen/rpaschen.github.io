@@ -10384,7 +10384,7 @@ a.animated-button:link, a.animated-button:visited {
 	padding: 14px 15px;
 	color: #2c3e50;
 	font-size:14px;
-	border-radius: 30px;
+	border-radius: 0;
 	font-weight: bold;
 	text-align: center;
 	text-decoration: none;
@@ -10408,10 +10408,8 @@ a.animated-button.victoria-four:after {
 	-ms-transform: translateY(-50%) translateX(-50%) rotate(90deg);
 	-webkit-transform: translateY(-50%) translateX(-50%) rotate(90deg);
 	transform: translateY(-50%) translateX(-50%) rotate(90deg);
-  border-radius: 30px;
 }
 a.animated-button.victoria-four:hover:after {
 	opacity: 1;
 	height: 600% !important;
-  border-radius: 30px;
 }
