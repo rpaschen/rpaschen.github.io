@@ -10276,6 +10276,6 @@ form .row:first-child .floating-label-form-group {
 }
 
 .resume-responsive {
-  max-width: 40%;
+  max-width: 700px;
   height: auto;
 }
