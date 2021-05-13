@@ -10340,7 +10340,6 @@ a.animated-button:link, a.animated-button:visited {
 	position: relative;
 	display: block;
 	margin: 30px auto 0;
-	padding: 14px;
 	color: #2c3e50;
 	font-size: 14px;
 	font-weight: bold;
@@ -10381,7 +10380,6 @@ a.animated-button:link, a.animated-button:visited {
 	position: relative;
 	display: block;
 	margin: 30px auto 0;
-	padding: 14px;
 	color: #2c3e50;
 	font-size:14px;
 	border-radius: 0;
