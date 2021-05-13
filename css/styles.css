@@ -10403,10 +10403,10 @@ a.animated-button.victoria-four {
 a.animated-button.victoria-four:after {
 	background: #ffc1b6;
 	opacity: .5;
-	-moz-transform: translateY(-50%) translateX(-50%) rotate(90deg);
-	-ms-transform: translateY(-50%) translateX(-50%) rotate(90deg);
-	-webkit-transform: translateY(-50%) translateX(-50%) rotate(90deg);
-	transform: translateY(-50%) translateX(-50%) rotate(90deg);
+	-moz-transform: translateY(-70%) translateX(-70%) rotate(90deg);
+	-ms-transform: translateY(-70%) translateX(-70%) rotate(90deg);
+	-webkit-transform: translateY(-70%) translateX(-70%) rotate(90deg);
+	transform: translateY(-70%) translateX(-70%) rotate(90deg);
 }
 a.animated-button.victoria-four:hover:after {
 	opacity: 1;
