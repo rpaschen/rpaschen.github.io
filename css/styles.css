@@ -10276,8 +10276,8 @@ form .row:first-child .floating-label-form-group {
 }
 
 .resume-responsive {
-  max-width: 700px;
-  height: auto;
+  max-width: 700px !important;
+  height: auto !important;
 }
 
 /* Project page styling */
