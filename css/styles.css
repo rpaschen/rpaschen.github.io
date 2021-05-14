@@ -10334,3 +10334,7 @@ form .row:first-child .floating-label-form-group {
   color: #1abc9c;
   opacity: 1;
 }
+
+.port-btn {
+  min-width: 250px !important;
+}
