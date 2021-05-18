@@ -10344,5 +10344,5 @@ form .row:first-child .floating-label-form-group {
 }
 
 .port-section {
-  height: 100vh !important;
+  height: 100% !important;
 }
