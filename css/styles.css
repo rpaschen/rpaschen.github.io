@@ -10342,3 +10342,7 @@ form .row:first-child .floating-label-form-group {
 .ui-schol-img {
   max-width: 700px !important;
 }
+
+.port-section {
+  height: 100vh !important;
+}
