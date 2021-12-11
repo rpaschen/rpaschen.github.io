@@ -10354,7 +10354,7 @@ a.button1 {
     text-decoration: none;
     font-family: 'Roboto',sans-serif;
     font-weight: 900;
-    color: #ffdcb8;
+    color: #ffc1b6;
     text-align: center;
     transition: all 0.2s;
     height: 2em;
@@ -10363,7 +10363,7 @@ a.button1 {
 
     a.button1:hover {
         color: #FFFFFF;
-        background-color: #ffdcb8;
+        background-color: #ffc1b6;
     }
 
 @media all and (max-width:30em) {
