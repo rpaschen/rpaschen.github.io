@@ -10357,8 +10357,8 @@ a.button1 {
     color: #ffc1b6;
     text-align: center;
     transition: all 0.2s;
-    height: 3em;
-    width: 5em;
+    height: 2em;
+    width: 3em;
 }
 
     a.button1:hover {
